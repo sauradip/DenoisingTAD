@@ -26,8 +26,6 @@ THUMOS14 | 41.52 | 49.33 | 56.41 | 62.91 | [link](https://drive.google.com/file/
 
 ## Training
 
-Use `train.sh` to train RTD-Net.
-
 ```
 
 # First stage
